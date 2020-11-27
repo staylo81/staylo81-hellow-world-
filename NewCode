@@ -1,2 +1,3 @@
 git branches
 git branches -v 
+git branch --all
